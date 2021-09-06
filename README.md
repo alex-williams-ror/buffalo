@@ -61,22 +61,3 @@ Buffalo would not be possible if not for all of the great projects it depends on
 ### Sessions, Cookies, WebSockets, and more
 
 [github.com/gorilla](https://github.com/gorilla) - The Gorilla toolkit is a great set of packages designed to improve upon the standard library for a variety of web-related packages. With these high-quality packages Buffalo can keep its "core" code to a minimum and focus on its goal of gluing them all together to make your life better.
-
-## Benchmarks
-
-Oh, yeah, everyone wants benchmarks! What would a web framework be without its benchmarks? Well, guess what? I'm not giving you any! That's right. This is Go! I assure you that it is plenty fast enough for you. If you want benchmarks you can either a) check out any benchmarks that the [GIANTS](SHOULDERS.md) Buffalo is built upon having published, or b) run your own. I have no interest in playing the benchmark game, and neither should you.
-
-## Contributing
-
-First, thank you so much for wanting to contribute! It means so much that you care enough to want to contribute. We appreciate every PR from the smallest of typos to the be biggest of features.
-
-**Here are the core rules to respect**:
-
-- If you have any question, please consider using the [Slack channel](https://gobuffalo.io/docs/slack) (-#buffalo-, *#buffalo_fr* or *#buffalo-dev* for contribution related questions) or [Stack Overflow](https://stackoverflow.com/questions/tagged/buffalo). We use GitHub issues for **bug reports and feature requests only**.
-- All contributors of this project are working on their free time: be patient and kind. :-
-- Consider opening an issue **BEFORE** creating a Pull request (PR): you won't lose your -ime on fixing non-existing bugs, or fixing the wrong bug. Also we can help you to produce the best PR!
-- All PRs **MUST** be opened against the *development* branch. If you want to write an ho--fix, we'll first fix the *development* branch before moving the patch to *master* branch.
-
-**WE WILL CLOSE ANY ISSUE OR PR NOT FOLLOWING THESE CORE RULES**.
-
-For the full contribution guidelines, please read [CONTRIBUTING](.github/CONTRIBUTING.md).
